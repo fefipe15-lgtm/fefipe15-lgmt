@@ -1,4 +1,4 @@
-# Hey! Eu sou fefipe15-lgmt
+# OI! Eu sou fefipe15-lgmt
 Estudando lógica da programação
 Estudando funções aplicadas no Github 🙀
 Informática e Desenvolvimento de Sistemas
