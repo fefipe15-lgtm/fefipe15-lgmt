@@ -1,60 +1,55 @@
-# ⚡ Bem-vindo ao meu perfil ⚡
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=fefipe15-lgmt&fontSize=35&fontColor=ffffff&animation=fadeIn" />
-
----
-
-## 👾 Sobre mim
+# 👋 Olá, eu sou o fefipe15-lgmt
 
 🎓 Estudante de **Informática e Desenvolvimento de Sistemas**
-🧠 Aprendendo **Lógica de Programação**
-⚙️ Explorando o mundo do **GitHub e suas funções**
-📚 Envolvido em **Projeto Multidisciplinar**
-
-🚀 Em constante evolução...
+🧠 Atualmente aprendendo **Lógica de Programação**
+📚 Participando de **Projeto Multidisciplinar**
 
 ---
 
-## 🕹️ Tecnologias
+## 🚀 Sobre mim
 
-![Git](https://img.shields.io/badge/Git-ff073a?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge\&logo=github\&logoColor=white)
-
----
-
-## 📊 Status do Jogador
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fefipe15-lgmt\&show_icons=true\&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fefipe15-lgmt\&layout=compact\&theme=radical)
+Estou focado em aprender programação desde a base, desenvolvendo minha lógica e criando projetos práticos para evoluir cada vez mais.
 
 ---
 
-## 🧩 Missões (Objetivos)
+## 🛠️ Tecnologias
 
-✔️ Evoluir na lógica de programação
-✔️ Criar projetos cada vez melhores
-✔️ Dominar ferramentas de desenvolvimento
-🎯 Futuro: me tornar um desenvolvedor profissional
+### 💻 Linguagens
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=java\&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat\&logo=kotlin\&logoColor=white)
 
-## 🧪 Projetos
+### ⚙️ Ferramentas
 
-🚧 Em construção...
-
----
-
-## 🐍 Contribuições (efeito cobra)
-
-![Snake animation](https://github.com/fefipe15-lgmt/fefipe15-lgmt/blob/output/github-contribution-grid-snake.svg)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
 
 ---
 
-## 💭 Frase
+## 📊 Estatísticas
 
-*"Pequenos passos hoje, grandes resultados amanhã."* 🚀
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fefipe15-lgmt\&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fefipe15-lgmt\&layout=compact)
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+## 🎯 Objetivos
+
+* Evoluir na lógica de programação
+* Criar projetos práticos
+* Aprender novas tecnologias
+* Me tornar desenvolvedor
+
+---
+
+## 📌 Projetos
+
+🚧 Em desenvolvimento...
+
+---
+
+## 💡 Frase
+
+*"Aprender hoje para construir o amanhã."* 🚀
