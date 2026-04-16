@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o fefipe15-lgmt
+# 👋 Olá, fefipe15-lgmt
 
 🎓 Estudante de **Informática e Desenvolvimento de Sistemas**
 🧠 Atualmente aprendendo **Lógica de Programação**
